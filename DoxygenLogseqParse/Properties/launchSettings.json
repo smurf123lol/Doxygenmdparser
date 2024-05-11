@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DoxygenLogseqParse": {
+      "commandName": "Project",
+      "commandLineArgs": "--destination \"F:\\Projects\\unity\\Spy commander\\docs\\doxygen\\md_\" --source \"F:\\Projects\\unity\\Spy commander\\docs\\doxygen\\xml\""
+    }
+  }
+}
